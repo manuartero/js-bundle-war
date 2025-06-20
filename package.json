@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:esm": "vite build --config vite.config.esm.js",
     "preview": "vite preview"
   },
   "devDependencies": {
